@@ -2,9 +2,9 @@
 
 These SAMSON Elements were written during SAMSON School 2016 (https://project.inria.fr/samsonschool2016).
 
-- AtomShaker: an editor that pushes atoms around
+- AtomPusher: an editor that pushes atoms around
 - AtomShaker: an App that shakes atoms when a push button is pressed
-- CenterOfMass: an App that demonstrates the use of SAMSON signals and slots to peform incremental calculations
+- CenterOfMass: an App that demonstrates the use of SAMSON signals and slots to perform incremental calculations
 - MySpringModel: an interaction model that creates springs based on a structural model
 - VanDerWaals: a visual model that displays one sphere per atom, with radius the van der Waals radius of the atom
 - XYZImporter: an XYZ file importer
