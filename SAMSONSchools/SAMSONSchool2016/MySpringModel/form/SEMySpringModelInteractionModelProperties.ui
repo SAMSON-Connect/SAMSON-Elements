@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SEMySpringModelInteractionModelPropertiesClass</class>
+ <widget class="QWidget" name="SEMySpringModelInteractionModelPropertiesClass">
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QLabel" name="labelTotalEnergy">
+     <property name="text">
+      <string>Total energy: 0 eV</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+ <slots>
+  <slot>onCheckBoxChanged(int)</slot>
+ </slots>
+</ui>
